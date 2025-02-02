@@ -25,7 +25,7 @@ Sensei Search is built using the following technologies:
 - LLMs: Command-R, Qwen-2-72b-instruct, WizardLM-2 8x22B, Claude Haiku, GPT-3.5-turbo
 - Search: SearxNG, Bing
 - Memory: Redis
-- Deployment: AWS, [Paka](https://github.com/jjleng/paka)
+- Deployment: AWS, [Paka](https://github.com/rickmystics/hackathon-sensei.git)
 
 ## 🏃‍♂️ How to Run Sensei Search
 
@@ -54,7 +54,7 @@ Follow these steps to run Sensei Search locally:
 
 ### Running in the Cloud
 
-We deploy the app to AWS using [paka](https://github.com/jjleng/paka). Please note that the models require GPU instances to run.
+We deploy the app to AWS using [paka](https://github.com/rickmystics/hackathon-sensei.git). Please note that the models require GPU instances to run.
 
 Before you start, make sure you have:
 
