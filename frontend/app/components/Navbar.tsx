@@ -55,7 +55,7 @@ export default function Navbar() {
                       <DarkModeTogglePlain size={24} />
                     </div>
                     <Link
-                      href="https://github.com/jjleng/sensei"
+                      href="https://github.com/rickmystics/hackathon-sensei.git"
                       className={`flex items-center justify-center text-foreground/70 hover:opacity-50`}
                       target="_blank"
                     >
